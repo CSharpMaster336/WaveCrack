@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WaveCrack-Wifi/1.0.0": {
+        "dependencies": {
+          "SimpleWifi": "1.0.0.0"
+        },
+        "runtime": {
+          "WaveCrack-Wifi.dll": {}
+        }
+      },
+      "SimpleWifi/1.0.0.0": {
+        "runtime": {
+          "SimpleWifi.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WaveCrack-Wifi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleWifi/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
